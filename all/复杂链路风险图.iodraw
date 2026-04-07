@@ -40,10 +40,10 @@
         <mxCell id="rc" value="权限 / 状态控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="510" y="470" width="160" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rd" value="版本选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="rd" value="双策略树切换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="750" y="470" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="re" value="双策略树切换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="re" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="970" y="470" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rf" value="结果验证滞后" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">

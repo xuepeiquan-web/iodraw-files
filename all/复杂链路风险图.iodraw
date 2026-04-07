@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="策略配置到分案生效的复杂链路风险图" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontStyle=1;fontColor=#0f172a;" parent="1" vertex="1">
-          <mxGeometry x="60" y="30" width="760" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="meta1" value="6 个需求模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="85" y="230" width="130" height="44" as="geometry" />
         </mxCell>
@@ -30,9 +27,6 @@
         </mxCell>
         <mxCell id="d" value="次日策略树更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="720" y="340" width="200" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="e" value="00:01 定时同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="960" y="340" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="f" value="分案结果生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="1180" y="340" width="180" height="72" as="geometry" />
@@ -64,11 +58,15 @@
         <mxCell id="edge_cd" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="c" target="d" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge_de" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="d" target="e" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="edge_de" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="d" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="376" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="edge_ef" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="e" target="f" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="edge_ef" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" target="f" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="376" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="edge_ra" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="ra" target="a" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,8 +80,10 @@
         <mxCell id="edge_rd" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="rd" target="d" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge_re" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="re" target="e" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="edge_re" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="re" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="412" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="edge_rf" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="rf" target="f" edge="1">
           <mxGeometry relative="1" as="geometry" />

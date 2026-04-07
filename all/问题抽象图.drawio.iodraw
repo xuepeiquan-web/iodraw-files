@@ -14,13 +14,13 @@
           <mxGeometry x="500" y="300" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="scene" value="&lt;div style=&quot;font-size:18px;font-weight:700;&quot;&gt;Mock能力增强&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;分组、&lt;span style=&quot;background-color: initial;&quot;&gt;版本管理、启用/弃用&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;strokeWidth=2;fontColor=#0f172a;arcSize=18;spacingTop=8;" parent="1" vertex="1">
-          <mxGeometry x="830" y="80" width="250" height="110" as="geometry" />
+          <mxGeometry x="810" y="510" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="data" value="&lt;div style=&quot;font-size:18px;font-weight:700;&quot;&gt;数据准备类&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;质检单批量造数&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:4px;&quot;&gt;考勤 CSV / 参数生成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;strokeWidth=2;fontColor=#0f172a;arcSize=18;spacingTop=8;" parent="1" vertex="1">
-          <mxGeometry x="830" y="510" width="250" height="110" as="geometry" />
+          <mxGeometry x="830" y="110" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="env" value="&lt;div style=&quot;font-size:18px;font-weight:700;&quot;&gt;环境处理类&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;权限配置&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:4px;&quot;&gt;Redis 清理 / 策略补齐&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;strokeWidth=2;fontColor=#0f172a;arcSize=18;spacingTop=8;" parent="1" vertex="1">
-          <mxGeometry x="830" y="300" width="270" height="110" as="geometry" />
+          <mxGeometry x="800" y="300" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="edge_scene" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=2.5;endArrow=none;" parent="1" source="scene" target="center" edge="1">
           <mxGeometry relative="1" as="geometry" />

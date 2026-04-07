@@ -28,7 +28,7 @@
         <mxCell id="d" value="次日策略树更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="720" y="340" width="200" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="f" value="审批后7步配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
+        <mxCell id="f" value="分案结果生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="960" y="340" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ra" value="名称唯一校验&lt;div&gt;次日表占用校验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="rd" value="Redis标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="750" y="470" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rf" value="结果验证滞后" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="rf" value="考勤×岗位×流入方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="970" y="470" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="edge_ab" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="a" target="b" edge="1">

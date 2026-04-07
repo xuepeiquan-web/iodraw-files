@@ -56,7 +56,7 @@
           <mxGeometry x="-630" y="80" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-16" value="准备成本高 / 覆盖成本高 / 边界验证成本高 / 结果判断成本高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontColor=#1e3a8a;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="150" width="680" height="52" as="geometry" />
+          <mxGeometry x="-810" y="150" width="610" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-17" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 前置数据准备难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;团队、机构、催收组、催收员、岗位、考勤、客户池要一起就位。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;少一个条件，链路就跑不起来。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="-780" y="235" width="620" height="90" as="geometry" />

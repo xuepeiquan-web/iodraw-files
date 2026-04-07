@@ -50,28 +50,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fbff;strokeColor=#dbeafe;strokeWidth=2;arcSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1680" width="740" height="790" as="geometry" />
+          <mxGeometry x="-600" y="1370" width="740" height="790" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-2" value="这个需求为什么难测？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="1700" width="360" height="40" as="geometry" />
+          <mxGeometry x="-375" y="1390" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-3" value="难点不在流程长，而在测试的四类成本同时变高" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#475569;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="1735" width="500" height="24" as="geometry" />
+          <mxGeometry x="-445" y="1425" width="500" height="24" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-4" value="准备成本高 / 覆盖成本高 / 边界验证成本高 / 结果判断成本高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontColor=#1e3a8a;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="1770" width="600" height="60" as="geometry" />
+          <mxGeometry x="-530" y="1460" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-5" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 前置数据准备难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;团队、机构、催收组、催收员、岗位、考勤、客户池要一起就位。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;少一个条件，链路就跑不起来。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="1860" width="590" height="80" as="geometry" />
+          <mxGeometry x="-525" y="1550" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-6" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;02 状态流转覆盖难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;提交、审批中、通过、驳回、过期、待执行、已完成都会影响动作和结果。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;不只测主流程，还要测非法流转和重复提交。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="2000" width="590" height="80" as="geometry" />
+          <mxGeometry x="-525" y="1690" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-7" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;03 时间边界验证难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;普通日、月末、跨月、同步前后这些时间条件会改变流转结果。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;即使能手动跑任务，也要额外构造边界场景。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="2140" width="590" height="80" as="geometry" />
+          <mxGeometry x="-525" y="1830" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-8" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;04 结果预期判断难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;重点不是案件分给谁，而是谁应该参与分案、谁不应该。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;必须结合团队类型、岗位属性、考勤状态反推预期。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="2280" width="590" height="80" as="geometry" />
+          <mxGeometry x="-525" y="1970" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EROt7ZS8sKVb75quReQg-5" target="EROt7ZS8sKVb75quReQg-6">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-12" value="测试重点不只是“功能能否跑通”，而是“前置条件是否满足、边界是否拆开、结果是否能判断对错”。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontColor=#1e3a8a;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="2360" width="610" height="60" as="geometry" />
+          <mxGeometry x="-530" y="2050" width="610" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

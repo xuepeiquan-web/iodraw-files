@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbfffc;strokeColor=#d1fae5;strokeWidth=2;arcSize=24;" parent="1" vertex="1">
-          <mxGeometry x="10" y="60" width="780" height="860" as="geometry" />
+          <mxGeometry x="10" y="50" width="780" height="870" as="geometry" />
         </mxCell>
         <mxCell id="title" value="我是怎么把它测清楚的？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" parent="1" vertex="1">
           <mxGeometry x="255" y="80" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sum" value="先抓主问题，再建矩阵，再固定数据准备路径，最后补齐边界和结果验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="70" y="150" width="680" height="52" as="geometry" />
+          <mxGeometry x="60" y="150" width="680" height="52" as="geometry" />
         </mxCell>
         <mxCell id="step1" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 先梳理分案资格规则&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;先弄清楚哪些催收员应该参与分案，哪些不应该。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
           <mxGeometry x="115" y="240" width="590" height="80" as="geometry" />

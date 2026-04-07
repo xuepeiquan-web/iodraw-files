@@ -10,9 +10,6 @@
         <mxCell id="title" value="我是怎么把它测清楚的？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" parent="1" vertex="1">
           <mxGeometry x="255" y="50" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="subtitle" value="从刚入职不熟悉业务，到能独立拆规则、搭数据、补边界、判断结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#475569;" parent="1" vertex="1">
-          <mxGeometry x="150" y="102" width="520" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="sum" value="先抓主问题，再建矩阵，再固定数据准备路径，最后补齐边界和结果验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="70" y="145" width="680" height="52" as="geometry" />
         </mxCell>

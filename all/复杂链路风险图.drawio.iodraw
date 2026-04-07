@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="meta1" value="4个新建页面&lt;div&gt;+2个分案逻辑改造&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="230" width="130" height="44" as="geometry" />
+          <mxGeometry x="85" y="230" width="130" height="44" as="geometry" />
         </mxCell>
         <mxCell id="meta2" value="7+ 类校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="150" height="44" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="meta4" value="4 类状态流转" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="750" y="230" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a" value="人工策略维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
+        <mxCell id="a" value="人工策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="60" y="340" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="b" value="CSV 导入校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">

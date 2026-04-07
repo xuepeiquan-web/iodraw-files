@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="how-i-solved-it-vertical" name="我是怎么把它测清楚的">
-    <mxGraphModel dx="2702" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="xvEiQkECqBEzEnpPjNX8-20" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;04 结果预期判断难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;重点不是案件分给谁，而是谁应该参与分案、谁不应该。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;必须结合团队类型、岗位属性、考勤状态反推预期。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="-810" y="940" width="680" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xvEiQkECqBEzEnpPjNX8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;dashed=1;dashPattern=6 6;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-17" target="xvEiQkECqBEzEnpPjNX8-18">
+        <mxCell id="xvEiQkECqBEzEnpPjNX8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-17" target="xvEiQkECqBEzEnpPjNX8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;dashed=1;dashPattern=6 6;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-18" target="xvEiQkECqBEzEnpPjNX8-19">

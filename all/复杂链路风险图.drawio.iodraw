@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="meta1" value="6 个需求模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="meta1" value="4个新建页面&lt;div&gt;+2个分案逻辑改造&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="230" width="130" height="44" as="geometry" />
         </mxCell>
         <mxCell id="meta2" value="7+ 类校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
@@ -29,7 +29,7 @@
           <mxGeometry x="720" y="340" width="200" height="72" as="geometry" />
         </mxCell>
         <mxCell id="f" value="分案结果生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="340" width="180" height="72" as="geometry" />
+          <mxGeometry x="960" y="340" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ra" value="规则口径多" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="470" width="140" height="44" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="750" y="470" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rf" value="结果验证滞后" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="470" width="160" height="44" as="geometry" />
+          <mxGeometry x="970" y="470" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="edge_ab" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="a" target="b" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -55,14 +55,9 @@
         <mxCell id="edge_cd" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="c" target="d" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge_de" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="d" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="376" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="edge_ef" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;endArrow=block;endFill=1;" parent="1" target="f" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1140" y="376" as="sourcePoint" />
+            <mxPoint x="920" y="376" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="edge_ra" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94a3b8;strokeWidth=1.5;dashed=1;dashPattern=8 8;endArrow=none;" parent="1" source="ra" target="a" edge="1">

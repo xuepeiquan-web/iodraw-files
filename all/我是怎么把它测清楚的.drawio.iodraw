@@ -10,7 +10,7 @@
         <mxCell id="title" value="我是怎么把它测清楚的？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" parent="1" vertex="1">
           <mxGeometry x="255" y="60" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sum" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;先抓主问题，再建矩阵，再固定数据准备路径，最后补齐边界和结果验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" parent="1" vertex="1">
+        <mxCell id="sum" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;先抓主问题，再建矩阵，再固定数据准备路径，最后补齐边界和结果验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="100" y="130" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="step1" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 先梳理分案资格规则&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 65, 85); margin-top: 10px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;先弄清楚哪些催收员应该参与分案，哪些不应该。&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
@@ -79,7 +79,7 @@
         <mxCell id="EROt7ZS8sKVb75quReQg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="EROt7ZS8sKVb75quReQg-7" target="EROt7ZS8sKVb75quReQg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EROt7ZS8sKVb75quReQg-12" value="测试重点不只是“功能能否跑通”，而是“前置条件是否满足、边界是否拆开、结果是否能判断对错”。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontColor=#1e3a8a;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" vertex="1" parent="1">
+        <mxCell id="EROt7ZS8sKVb75quReQg-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;测试重点不只是“功能能否跑通”，而是“前置条件是否满足、边界是否拆开、结果是否能判断对错”。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#60a5fa;fontColor=#1e3a8a;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="-750" y="720" width="610" height="60" as="geometry" />
         </mxCell>
       </root>

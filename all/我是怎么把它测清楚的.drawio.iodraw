@@ -62,7 +62,7 @@
           <mxGeometry x="-730" y="235" width="520" height="85" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-18" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;02 状态流转覆盖难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;提交、审批中、通过、驳回、过期、待执行、已完成都会影响动作和结果。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;不只测主流程，还要测非法流转和重复提交。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
-          <mxGeometry x="-775" y="380" width="610" height="130" as="geometry" />
+          <mxGeometry x="-753.75" y="370" width="567.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-19" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;03 时间边界验证难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;普通日、月末、跨月、同步前后这些时间条件会改变流转结果。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;即使能手动跑任务，也要额外构造边界场景。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="-810" y="720" width="680" height="180" as="geometry" />

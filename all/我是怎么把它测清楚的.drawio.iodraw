@@ -70,7 +70,7 @@
         <mxCell id="xvEiQkECqBEzEnpPjNX8-20" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;04 结果预期判断难&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;重点不是案件分给谁，而是谁应该参与分案、谁不应该。&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:8px;&quot;&gt;必须结合团队类型、岗位属性、考勤状态反推预期。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="-810" y="940" width="680" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xvEiQkECqBEzEnpPjNX8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;dashed=1;dashPattern=6 6;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-17" target="xvEiQkECqBEzEnpPjNX8-18">
+        <mxCell id="xvEiQkECqBEzEnpPjNX8-21" style="rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;dashed=1;dashPattern=6 6;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-17" target="xvEiQkECqBEzEnpPjNX8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvEiQkECqBEzEnpPjNX8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#93c5fd;strokeWidth=2;dashed=1;dashPattern=6 6;endArrow=none;" edge="1" parent="1" source="xvEiQkECqBEzEnpPjNX8-18" target="xvEiQkECqBEzEnpPjNX8-19">

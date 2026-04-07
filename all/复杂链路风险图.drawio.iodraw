@@ -31,7 +31,7 @@
         <mxCell id="f" value="分案结果生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontColor=#0f172a;fontSize=16;fontStyle=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="960" y="340" width="180" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="ra" value="规则口径多" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="ra" value="名称唯一校验&lt;div&gt;次日表占用校验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="470" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rb" value="7+ 类校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontColor=#92400e;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">

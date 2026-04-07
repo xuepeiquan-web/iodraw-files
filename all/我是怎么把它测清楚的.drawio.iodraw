@@ -14,7 +14,7 @@
           <mxGeometry x="60" y="150" width="680" height="52" as="geometry" />
         </mxCell>
         <mxCell id="step1" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 先梳理分案资格规则&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;先弄清楚哪些催收员应该参与分案，哪些不应该。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
-          <mxGeometry x="115" y="240" width="590" height="80" as="geometry" />
+          <mxGeometry x="105" y="240" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arr12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#34d399;strokeWidth=2;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="step1" target="XG01Vlrw-38Ma1thgQG0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

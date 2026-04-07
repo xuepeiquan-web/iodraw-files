@@ -46,7 +46,7 @@
         <mxCell id="XG01Vlrw-38Ma1thgQG0-3" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;&lt;div&gt;04 最后补边界和结果验证&lt;/div&gt;&lt;div style=&quot;font-weight: 400; font-size: 13px; color: rgb(51, 65, 85); margin-top: 10px;&quot;&gt;重点补在途单、驳回重提、月末跨月，以及谁能参与分案的资格判断。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="100" y="700" width="590" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XG01Vlrw-38Ma1thgQG0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#34d399;strokeWidth=2;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XG01Vlrw-38Ma1thgQG0-1">
+        <mxCell id="XG01Vlrw-38Ma1thgQG0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#34d399;strokeWidth=2;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XG01Vlrw-38Ma1thgQG0-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="330" as="sourcePoint" />
             <mxPoint x="420" y="370" as="targetPoint" />

@@ -20,7 +20,7 @@
           <mxGeometry x="115" y="240" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="step2" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;02 再建立条件矩阵&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;按团队类型、岗位属性、考勤状态、配置状态拆 case，不只按页面流程测。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
-          <mxGeometry x="70" y="450" width="680" height="160" as="geometry" />
+          <mxGeometry x="90" y="460" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="step3" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;03 再沉淀数据准备路径&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;把团队、机构、催收组、人员、考勤这些前置关系梳成固定检查顺序。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
           <mxGeometry x="70" y="650" width="680" height="160" as="geometry" />

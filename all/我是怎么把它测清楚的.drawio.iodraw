@@ -31,7 +31,7 @@
             <mxPoint x="399.5" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最终提升：从按页面执行测试，走到能主动拆复杂需求、建立验证模型、提前补齐高风险边界。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1fae5;strokeColor=#34d399;fontColor=#065f46;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" parent="1" vertex="1">
+        <mxCell id="footer" value="最终提升：从按页面执行测试，走到能主动拆复杂需求、建立验证模型、提前补齐高风险边界。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1fae5;strokeColor=#34d399;fontColor=#065f46;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" parent="1" vertex="1">
           <mxGeometry x="100" y="720" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XG01Vlrw-38Ma1thgQG0-1" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;02 再建立条件矩阵&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400; color: rgb(51, 65, 85); margin-top: 10px;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;按团队类型、岗位属性、考勤状态、配置状态拆 case，不只按页面流程测。&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
@@ -56,7 +56,7 @@
           <mxGeometry x="-600" y="60" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;准备成本高 / 覆盖成本高 / 边界验证成本高 / 结果判断成本高&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontColor=#1e3a8a;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="120" width="530" height="60" as="geometry" />
+          <mxGeometry x="-750" y="130" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-5" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;01 前置数据准备难&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 65, 85); margin-top: 10px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;团队、机构、催收组、催收员、岗位、考勤、客户池要一起就位。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 65, 85); margin-top: 8px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;少一个条件，链路就跑不起来。&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#bfdbfe;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="-745" y="220" width="590" height="80" as="geometry" />

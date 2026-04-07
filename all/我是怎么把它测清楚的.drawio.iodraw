@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbfffc;strokeColor=#d1fae5;strokeWidth=2;arcSize=24;" parent="1" vertex="1">
-          <mxGeometry x="30" y="20" width="760" height="1360" as="geometry" />
+          <mxGeometry x="10" y="20" width="780" height="900" as="geometry" />
         </mxCell>
         <mxCell id="title" value="我是怎么把它测清楚的？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" parent="1" vertex="1">
           <mxGeometry x="215" y="50" width="390" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="footer" value="最终提升：从按页面执行测试，走到能主动拆复杂需求、建立验证模型、提前补齐高风险边界。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1fae5;strokeColor=#34d399;fontColor=#065f46;fontSize=14;fontStyle=1;arcSize=18;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="100" y="756" width="680" height="88" as="geometry" />
+          <mxGeometry x="80" y="740" width="660" height="54" as="geometry" />
         </mxCell>
         <mxCell id="XG01Vlrw-38Ma1thgQG0-1" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;&lt;div&gt;02 再建立条件矩阵&lt;/div&gt;&lt;div style=&quot;font-weight: 400; font-size: 13px; color: rgb(51, 65, 85); margin-top: 10px;&quot;&gt;按团队类型、岗位属性、考勤状态、配置状态拆 case，不只按页面流程测。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" vertex="1" parent="1">
           <mxGeometry x="115" y="360" width="590" height="80" as="geometry" />
@@ -51,9 +51,6 @@
             <mxPoint x="410" y="440" as="sourcePoint" />
             <mxPoint x="420" y="370" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XG01Vlrw-38Ma1thgQG0-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;最终提升：从按页面执行测试，走到能主动拆复杂需求、建立验证模型、提前补齐高风险边界。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="90" y="880" width="680" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

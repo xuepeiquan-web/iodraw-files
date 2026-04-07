@@ -53,10 +53,7 @@
           <mxGeometry x="-860" y="40" width="740" height="790" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-2" value="这个需求为什么难测？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontStyle=1;fontColor=#0f172a;" vertex="1" parent="1">
-          <mxGeometry x="-635" y="60" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EROt7ZS8sKVb75quReQg-3" value="难点不在流程长，而在测试的四类成本同时变高" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#475569;" vertex="1" parent="1">
-          <mxGeometry x="-705" y="95" width="500" height="24" as="geometry" />
+          <mxGeometry x="-640" y="60" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EROt7ZS8sKVb75quReQg-4" value="准备成本高 / 覆盖成本高 / 边界验证成本高 / 结果判断成本高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#93c5fd;fontColor=#1e3a8a;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="-790" y="130" width="600" height="60" as="geometry" />

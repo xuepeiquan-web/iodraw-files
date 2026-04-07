@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG01Vlrw-38Ma1thgQG0-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;最终提升：从按页面执行测试，走到能主动拆复杂需求、建立验证模型、提前补齐高风险边界。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#6ee7b7;fontColor=#065f46;fontSize=13;fontStyle=1;arcSize=18;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="115" y="930" width="680" height="52" as="geometry" />
+          <mxGeometry x="90" y="880" width="680" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

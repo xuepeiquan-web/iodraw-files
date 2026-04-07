@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="145" width="680" height="52" as="geometry" />
         </mxCell>
         <mxCell id="step1" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;01 先梳理分案资格规则&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;先弄清楚哪些催收员应该参与分案，哪些不应该。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
-          <mxGeometry x="70" y="250" width="680" height="160" as="geometry" />
+          <mxGeometry x="110" y="250" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="step2" value="&lt;div style=&quot;font-size:17px;font-weight:700;&quot;&gt;02 再建立条件矩阵&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#334155;margin-top:10px;&quot;&gt;按团队类型、岗位属性、考勤状态、配置状态拆 case，不只按页面流程测。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a7f3d0;strokeWidth=2;arcSize=18;spacing=12;" parent="1" vertex="1">
           <mxGeometry x="70" y="450" width="680" height="160" as="geometry" />

@@ -7,7 +7,7 @@
         <mxCell id="meta1" value="4个新建页面&lt;div&gt;+2个分案逻辑改造&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="85" y="230" width="130" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="meta2" value="7+ 类校验规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="meta2" value="12列导入字段&lt;div&gt;9类校验&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="150" height="44" as="geometry" />
         </mxCell>
         <mxCell id="meta3" value="15 项设计点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;fontColor=#1e293b;fontSize=13;fontStyle=1;arcSize=14;" parent="1" vertex="1">
